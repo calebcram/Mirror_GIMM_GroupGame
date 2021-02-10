@@ -1,4 +1,4 @@
-# Mirror_GIMM_GroupGame
+# Mirror_GroupGame_Spring2019
  Mirror (Spring 2019 - Group Game Project) This is the group project I worked on in the GIMM 250 class of Spring 2019. 
  Thanks to:  
  Alex Becerril, 
